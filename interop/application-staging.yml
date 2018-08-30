@@ -1,7 +1,4 @@
-env: 
-  staging
-
 project: 
   version: 1.0.2
   name: interop
-  branch: staging
+  environment: staging

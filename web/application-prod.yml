@@ -1,7 +1,4 @@
-env: 
-  prod
-
 project: 
   version: 1.0.6
   name: web
-  branch: prod
+  environment: prod

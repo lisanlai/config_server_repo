@@ -1,7 +1,4 @@
-env: 
-  prod
-
 project: 
   version: 1.0.4
   name: interop
-  branch: prod
+  environment: prod
