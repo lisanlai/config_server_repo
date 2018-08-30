@@ -2,6 +2,6 @@ env:
   prod
 
 project: 
-  version: 1.0.6
-  name: web
+  version: 1.0.4
+  name: interop
   branch: prod
