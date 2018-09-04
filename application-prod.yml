@@ -1,2 +1,4 @@
-env: 
-  prod
+project: 
+  version: 1.0.3
+  name: interop
+  environment: prod

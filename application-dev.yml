@@ -1,2 +1,4 @@
-env: 
-  dev
+project: 
+  version: 1.0.3
+  name: interop
+  environment: dev
