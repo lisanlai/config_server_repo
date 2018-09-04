@@ -2,14 +2,12 @@ project:
   version: 1.0.8
   name: web
   environment: staging
-
-nginx:
-    server: 
-      name: zipow.com
-
-
+  
 management:
   endpoints:
     web:
       exposure:
         include: *
+nginx:
+    server: 
+      name: zipow.com
