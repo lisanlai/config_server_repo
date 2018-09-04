@@ -3,7 +3,13 @@ project:
   name: web
   environment: staging
 
-
 nginx:
     server: 
       name: zipow.com
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: *
