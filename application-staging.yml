@@ -1,4 +1,4 @@
 project: 
-  version: 1.0.3
+  version: 1.0.2
   name: interop
   environment: staging
